@@ -1,0 +1,6 @@
+{
+    "search.searchOnType": true,
+    "search.followSymlinks": false,
+    "search.collapseResults": "auto",
+    "search.maxResults": 2000,
+}

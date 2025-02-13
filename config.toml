@@ -1,0 +1,11 @@
+[project]
+project_id = "ckppubhpsqxabksghsvm"
+
+[api]
+endpoint = "https://ckppubhpsqxabksghsvm.supabase.co"
+anon_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNrcHB1Ymhwc3F4YWJrc2doc3ZtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzgyNTQ0ODMsImV4cCI6MjA1MzgzMDQ4M30.9Cf5onMAwOc9wBr1x8CmbmO5fjGwtk1-Z1HXL3HjoA0"
+
+[db]
+port = 54322
+shadow_port = 54320
+major_version = 15 
